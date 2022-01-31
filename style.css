@@ -30,6 +30,7 @@ header{
 }
 main{
   min-height: calc(100vh - (120px + 80px));
+  font-family: 'Quintessential', cursive;
 }
 #welcome{
   min-height: calc(95vh - (120px + 80px));
